@@ -5,7 +5,7 @@ from telethon.errors import MessageDeleteForbiddenError
 from telethon.sessions import StringSession
 
 # ====== CONFIG: Yahin set karein ======
-API_ID = 6585119086            # my.telegram.org > API Development Tools [1]
+API_ID = 3947352            # my.telegram.org > API Development Tools [1]
 API_HASH = "d3865bffdb14c55f6585119086c5948d" # my.telegram.org se [1]
 TELETHON_STRING_SESSION = ""  # Optional: StringSession paste karein, warna blank chhodein [3]
 SESSION_NAME = "telethon_userbot"  # Agar string session blank ho to yeh .session file banega [1]
